@@ -1,7 +1,7 @@
 # pertemuan-7-ppt1
 **NAMA: OEN SAPUTRA HUTAJULU** <br>
 **KELAS: TI. 20. A. 1** <br>
-**NIM: 31201055** <br>
+**NIM: 312010155** <br>
 ------------------
 Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya: <br>
 
